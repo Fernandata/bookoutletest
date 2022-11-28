@@ -18,7 +18,8 @@
 
 First clone this repository.
 ```bash
-$ git clone https://github.com/Fernandata/bookoutlet```
+$ git clone https://github.com/Fernandata/bookoutlet
+```
 
 
 ## Author 👤
