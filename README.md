@@ -1,10 +1,9 @@
 # BookOutlet App
+This is an iOS app where users can look up the book of his/her preference. Once the book is found, the user can buy it. The app uses an external API made with node.js and express.    
 
-    
 ## Built With
-
-- Swift
-- Xcode
+- Appple Swift version 5.7.1 
+- Xcode 14.1
 
 
 ## Full Screen Views
@@ -15,9 +14,11 @@
 
   
 ## Learning objectives
-- 
 
-- 
+- Use of UIKit
+- Use of Storyboard
+- Use of Navigations Controllers
+- Use of IBAction/IBOulet
 
 ## Instructions
 
