@@ -15,6 +15,7 @@
 		683E62792930E84A00373829 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 683E62772930E84A00373829 /* Main.storyboard */; };
 		683E627B2930E84B00373829 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 683E627A2930E84B00373829 /* Assets.xcassets */; };
 		683E627E2930E84B00373829 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 683E627C2930E84B00373829 /* LaunchScreen.storyboard */; };
+		68801CD72936A7C20076899A /* CustomWishBtn.swift in Sources */ = {isa = PBXBuildFile; fileRef = 68801CD62936A7C20076899A /* CustomWishBtn.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		683E627A2930E84B00373829 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		683E627D2930E84B00373829 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		683E627F2930E84B00373829 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		68801CD62936A7C20076899A /* CustomWishBtn.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CustomWishBtn.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -44,6 +46,7 @@
 		683E62652930E84A00373829 = {
 			isa = PBXGroup;
 			children = (
+				68801CD62936A7C20076899A /* CustomWishBtn.swift */,
 				6823BA2829347B8B00C45CE0 /* CustomTextField.swift */,
 				6823BA26293469E700C45CE0 /* CustomBtn.swift */,
 				683E62702930E84A00373829 /* BookOutlet */,
@@ -144,6 +147,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				68801CD72936A7C20076899A /* CustomWishBtn.swift in Sources */,
 				683E62762930E84A00373829 /* ViewController.swift in Sources */,
 				6823BA27293469E700C45CE0 /* CustomBtn.swift in Sources */,
 				683E62722930E84A00373829 /* AppDelegate.swift in Sources */,

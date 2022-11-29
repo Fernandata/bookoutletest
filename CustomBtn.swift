@@ -12,6 +12,6 @@ class CustomBtn: UIButton {
         super.awakeFromNib()
         layer.backgroundColor = UIColor(red: 107/255, green: 105/255, blue: 193/255, alpha: 1).cgColor
         layer.cornerRadius = 10
-      
+           
     }
 }
