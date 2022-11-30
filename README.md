@@ -9,7 +9,7 @@ This is an iOS app where users can look up the book of his/her preference. Once 
 ## Full Screen Views
 ![Simulator Screen Shot - iPhone 14 Pro - 2022-11-28 at 03 13 26](https://user-images.githubusercontent.com/118903655/204226796-fecff76d-8bca-43da-81a7-11640bae5c74.png)
 ![Simulator Screen Shot - iPhone 14 Pro - 2022-11-28 at 03 14 52](https://user-images.githubusercontent.com/118903655/204227185-a72fec66-19f9-498f-8477-dfb3ed25eb98.png)
-![Simulator Screen Shot - iPhone 14 Pro - 2022-11-28 at 03 14 59](https://user-images.githubusercontent.com/118903655/204227197-ae2e7119-7c86-4988-b9d5-3cf83c149764.png)
+![Simulator Screen Shot - iPhone 14 Pro - 2022-11-29 at 10 19 37](https://user-images.githubusercontent.com/118903655/204568997-76515c82-4a95-4649-956b-127f7a62075f.png)
 ![Simulator Screen Shot - iPhone 14 Pro - 2022-11-28 at 03 15 08](https://user-images.githubusercontent.com/118903655/204227205-7dc1a24a-86db-415e-8595-0ef26fd94f96.png)
 
   
